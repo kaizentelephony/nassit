@@ -1,0 +1,296 @@
+﻿@model IEnumerable<TBL_ENROLLMENT>
+@{
+    Layout = "Dashboard";
+}
+<div class="wrapper ">
+    <div class="sidebar" data-color="red" data-active-color="primary" style="min-height: 100vh;">
+        <div class="logo d-flex align-items-center justify-content-center"
+             style="background: linear-gradient(135deg, #00ccff, #0491b7); height: 66px; box-shadow: 0 3px 6px rgba(0,0,0,0.2);">
+            <div class="logo-image-small">
+                <img src="~/assets/img/nassit.jpg"
+                     style="width: 150px; height: 80px; object-fit: contain; border-radius: 8px;" />
+            </div>
+        </div>
+
+        <div class="sidebar-wrapper" style="background: linear-gradient(180deg, #00cdfc, #033944); padding-top: 15px;">
+            <div class="user text-center mb-3">
+@*                 <div class="photo mb-2">*@         
+                <div>
+                <img src="~/assets/img/user-logo.png" style="border:2px solid #fff;width: 31px;height: 30px;overflow: hidden;float: left;z-index: 5;margin-right: 10px;border-radius: 50%;margin-left: 23px;" />
+                </div>
+                <div class="info" style="MARGIN-RIGHT: 142PX;">
+                    <span class="admin_text text-white font-weight-bold">
+                        @if (!string.IsNullOrEmpty(ViewBag.UsName))
+                        {
+                            <span>@ViewBag.UsName</span>
+                        }
+                    </span>
+                </div>
+            </div>
+
+            <ul class="nav flex-column">
+                <li class="nav-item active">
+                    <a asp-controller="Home" asp-action="Index" class="nav-link text-white">
+                        <i class="fas fa-tachometer-alt mr-2" style="color: #fda922;"></i> Dashboard
+                    </a>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-white" href="#" id="enrollmentMenu" data-toggle="dropdown">
+                        <i class="fas fa-user-edit mr-2" style="color:#ffc107;"></i> Enrollment
+                    </a>
+                    <div class="dropdown-menu bg-dark border-0 shadow">
+                        <a class="dropdown-item text-white bg-transparent hover-item" asp-controller="Home" asp-action="EntrollmentTable">Details</a>
+                        <a class="dropdown-item text-white bg-transparent hover-item" asp-controller="Home" asp-action="Entrollstatus">Success</a>
+                        <a class="dropdown-item text-white bg-transparent hover-item" asp-controller="Home" asp-action="EntrollFail">Failed</a>
+                    </div>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-white" href="#" id="verificationMenu" data-toggle="dropdown">
+                        <i class="fas fa-user-check mr-2" style="color:#28a745;"></i> Verification
+                    </a>
+                    <div class="dropdown-menu bg-dark border-0 shadow">
+                        <a class="dropdown-item text-white hover-item" asp-controller="Home" asp-action="VerificationTable">Details</a>
+                        <a class="dropdown-item text-white hover-item" asp-controller="Home" asp-action="VerifySuccess">Success</a>
+                        <a class="dropdown-item text-white hover-item" asp-controller="Home" asp-action="VerifyFail">Failed</a>
+                    </div>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" asp-controller="Home" asp-action="BlacklistTable">
+                        <i class="fas fa-user-slash mr-2" style="color:#dc3545;"></i> Blacklist
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" asp-controller="Home" asp-action="Calltrnsfer">
+                        <i class="fas fa-share-alt mr-2" style="color:#dc3545;"></i> Call Transfer
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" asp-controller="Home" asp-action="CallDetails">
+                        <i class="fas fa-list-alt mr-2" style="color:#dc3545;"></i> Call Details
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" asp-controller="Home" asp-action="Calltrnsfer">
+                        <i class="fas fa-tablet-alt mr-2" style="color:#dc3545;"></i> Call Transactions
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+    </div>
+
+    <!-- Navbar -->
+    <div class="main-panel">
+        <nav class="navbar navbar-expand-lg navbar-dark"
+             style="background: linear-gradient(273deg, #033944, #049dc6);box-shadow: 0 3px 6px rgba(0,0,0,0.2);">
+            <div class="container-fluid">
+                <div class="navbar-wrapper d-flex align-items-center">
+                  @*   <button id="minimizeSidebar" class="btn btn-outline-light btn-sm mr-3 rounded-circle">
+                        <i class="fas fa-bars"></i>
+                    </button> *@
+                    <a class="navbar-brand d-flex align-items-center" href="javascript:;">
+@*                         <img src="~/assets/img/nassit.jpg" style="width:50px; height:50px; border-radius:8px;" class="mr-2" />
+ *@                        <span class="font-weight-bold text-white">NASSIT Dashboard</span>
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse justify-content-end">
+                    <form asp-action="Logout" method="post" asp-controller="Home">
+                        <button type="submit" class="btn btn-danger btn-sm px-3 rounded-pill shadow-sm">
+                            <i class="fas fa-sign-out-alt"></i> Logout
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+
+
+        <div class="content">
+            <div class="row">
+                <!-- Enrollment Success -->
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="card card-stats" id="crd-clr1">
+                        <div class="card-body ">
+                            <div class="row">
+                                <div class="col-5 col-md-4">
+                                    <div class="icon-big text-center icon-warning">
+                                        <i class="fas fa-users" id="crd-top-img"></i>
+                                    </div>
+                                </div>
+                                <div class="col-7 col-md-8">
+                                    <div class="numbers">
+                                        <p class="card-category">Total</p>
+                                        @if (ViewBag.E_success == null)
+                                        {
+                                            <p class="card-title">0</p>
+                                        }
+                                        else
+                                        {
+                                            <p class="card-title">@ViewBag.E_success</p>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-footer ">
+                            <hr>
+                            <div class="stats">
+                                <i class="fa fa-refresh"></i>
+                                <i class="text-light">Enrollment success</i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Enrollment Failed -->
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="card card-stats" id="crd-clr2">
+                        <div class="card-body ">
+                            <div class="row">
+                                <div class="col-5 col-md-4">
+                                    <div class="icon-big text-center icon-warning">
+                                        <i class="fas fa-user" id="crd-top-imgs"></i>
+                                    </div>
+                                </div>
+                                <div class="col-7 col-md-8">
+                                    <div class="numbers">
+                                        <p class="card-category">Total</p>
+                                        @if (ViewBag.E_failed == null)
+                                        {
+                                            <p class="card-title">0</p>
+                                        }
+                                        else
+                                        {
+                                            <p class="card-title">@ViewBag.E_failed</p>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-footer ">
+                            <hr>
+                            <div class="stats">
+                                <i class="fa fa-calendar-o"></i>
+                                <i class="text-light">Enrollment Failed</i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Verification Success -->
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="card card-stats" id="crd-clr3">
+                        <div class="card-body ">
+                            <div class="row">
+                                <div class="col-5 col-md-4">
+                                    <div class="icon-big text-center icon-warning">
+                                        <i class="fas fa-users" id="crd-top-img"></i>
+                                    </div>
+                                </div>
+                                <div class="col-7 col-md-8">
+                                    <div class="numbers">
+                                        <p class="card-category">Total</p>
+                                        @if (ViewBag.V_success == null)
+                                        {
+                                            <p class="card-title">0</p>
+                                        }
+                                        else
+                                        {
+                                            <p class="card-title">@ViewBag.V_success</p>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-footer ">
+                            <hr>
+                            <div class="stats">
+                                <i class="fa fa-clock-o"></i>
+                                <i class="text-light">Verification Success</i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Verification Failed -->
+                <div class="col-lg-3 col-md-6 col-sm-6">
+                    <div class="card card-stats" id="crd-clr4">
+                        <div class="card-body ">
+                            <div class="row">
+                                <div class="col-5 col-md-4">
+                                    <div class="icon-big text-center icon-warning">
+                                        <i class="fas fa-user" id="crd-top-imgs"></i>
+                                    </div>
+                                </div>
+                                <div class="col-7 col-md-8">
+                                    <div class="numbers">
+                                        <p class="card-category">Total</p>
+                                        @if (ViewBag.V_failed == null)
+                                        {
+                                            <p class="card-title">0</p>
+                                        }
+                                        else
+                                        {
+                                            <p class="card-title">@ViewBag.V_failed</p>
+                                        }
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="card-footer ">
+                            <hr>
+                            <div class="stats">
+                                <i class="fa fa-refresh"></i>
+                                <i class="text-light">Verification Failed</i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Charts -->
+            <div class="row">
+                <div class="col-12 col-md-6 col-sm-12">
+                    <div class="mt-4">
+                        <canvas id="myChart" style="width:100%;max-width:600px"></canvas>
+                    </div>
+                </div>
+                <div class="col-12 col-md-6 col-sm-12">
+                    <div class="mt-4">
+                        <canvas id="lineChart" style="width:100%;max-width:600px"></canvas>
+                    </div>
+                </div>
+            </div>
+
+            <footer class="footer footer-black footer-white">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="credits ml-auto">
+                            <span class="copyright">
+                                Creative by
+                                <a href="https://www.sliepa.gov.sl/invest-in-sierra-leone/existing-investors/p/item/20745/nassit/">
+                                    NASSIT
+                                </a>
+                            </span>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+        </div>
+    </div>
+</div>
+
+<script>
+    var entrollsuccess = '@TempData["esuccess_kes"]';
+    var entrollfailed = '@TempData["efailed_kes"]';
+    var verifysuccess = '@TempData["vsuccess_kes"]';
+    var verifyfailed = '@TempData["vfailed_kes"]';
+
+    console.log(entrollsuccess);
+    console.log(entrollfailed);
+    console.log(verifysuccess);
+    console.log(verifyfailed);
+</script>

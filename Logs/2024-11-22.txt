@@ -1,0 +1,29 @@
+22-11-2024 13:46:24: *************** GET Login page ***************
+22-11-2024 13:46:24: Login action started
+22-11-2024 13:46:32: *************** POST Login page ***************
+22-11-2024 13:46:33:  your user name is correct 
+22-11-2024 13:46:33: *************** POST Index page ***************
+22-11-2024 13:46:37: Enrollment success count 1
+22-11-2024 13:46:37: Enrollment success count 0
+22-11-2024 13:46:38: Verification success count 28
+22-11-2024 13:46:38: Verification success count 4
+22-11-2024 13:46:45:  Entrollment table list success
+22-11-2024 13:46:50: Entring VerifySuccess
+22-11-2024 13:46:56: ******************** GET Verification  ********************
+22-11-2024 13:46:56:  Blacklist table list success 
+22-11-2024 13:47:19: *************** POST Index page ***************
+22-11-2024 13:47:19: Enrollment success count 1
+22-11-2024 13:47:19: Enrollment success count 0
+22-11-2024 13:47:19: Verification success count 28
+22-11-2024 13:47:19: Verification success count 4
+22-11-2024 13:47:51:  Entrollment table list success
+22-11-2024 13:48:21: Entring VerifySuccess
+22-11-2024 13:48:43: ******************** GET Verification  ********************
+22-11-2024 13:48:43:  Blacklist table list success 
+22-11-2024 13:49:56: *************** POST Index page ***************
+22-11-2024 13:49:56: Enrollment success count 1
+22-11-2024 13:49:56: Enrollment success count 0
+22-11-2024 13:49:56: Verification success count 28
+22-11-2024 13:49:56: Verification success count 4
+22-11-2024 13:50:02: *************** GET Login page ***************
+22-11-2024 13:50:02: Login action started

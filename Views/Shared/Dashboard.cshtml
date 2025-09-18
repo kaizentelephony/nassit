@@ -1,0 +1,67 @@
+﻿
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>
+        Nassit Dashboard
+    </title>
+    <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no" name="viewport" />
+   
+    <link href="~/assets/dashboard_layout/bootstrap.min.css" rel="stylesheet" />
+    <link href="~/assets/dashboard_layout/datatables.bootstrap5.min.css" rel="stylesheet" />
+    <link href="~/assets/dashboard_layout/buttons.bootstrap5.min.css" rel="stylesheet" />
+
+<link href="~/assets/css/paper-dashboard.min1036.css?v=2.1.1" rel="stylesheet" />
+    <link href="~/assets/css/ind.css" rel="stylesheet" />
+
+    <link href="~/assets/fontawesome/css/fontawesome.css" rel="stylesheet" />
+    <link href="~/assets/fontawesome/css/solid.css" rel="stylesheet" />
+
+    
+</head>
+<body>
+    @RenderBody()
+     <script src="    https://code.jquery.com/jquery-3.7.0.js"></script> 
+
+     <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script> 
+    <script src="~/assets/chart/js/chatcode.js"></script>
+    <script src="~/assets/chart/js/line-char.js"></script>
+    
+    <script src="~/assets/dashboard_layout/jquery.datatables.min.js"></script>
+    <script src="~/assets/dashboard_layout/datatables.bootstrap5.min.js"></script>
+    <script src="~/assets/dashboard_layout/datatables.buttons.min.js"></script>
+    <script src="~/assets/dashboard_layout/buttons.bootstrap5.min.js"></script>
+    <script src="~/assets/dashboard_layout/jszip.min.js"></script>
+    <script src="~/assets/dashboard_layout/pdfmake.min.js"></script>
+    <script src="~/assets/dashboard_layout/vfs_fonts.js"></script>
+    <script src="~/assets/dashboard_layout/buttons.html5.min.js"></script>
+    <script src="~/assets/dashboard_layout/buttons.print.min.js"></script>
+    <script src="~/assets/dashboard_layout/buttons.colvis.min.js"></script>
+
+    @* <script src="../assets/js/core/jquery.min.js"></script> *@
+    <script src="~/assets/js/core/popper.min.js"></script>
+    <script src="~/assets/js/core/bootstrap.min.js"></script>
+    <script src="~/assets/js/plugins/perfect-scrollbar.jquery.min.js"></script>
+    <script src="~/assets/js/paper-dashboard.min1036.js?v=2.1.1" type="text/javascript"></script>
+    <script src="~/assets/demo/demo.js"></script>
+    <script src="~/assets/demo/jquery.sharrre.js"></script>
+
+    
+</body>
+
+@* pdf and excel pagelength code *@
+<script>
+    $(document).ready(function () {
+        var table = $('#example').DataTable({
+            "lengthMenu": [[10, 25, 50, -1], [10, 25, 50, "All"]],     // page length options
+            sort: false,
+            lengthChange: false,
+            buttons: ['excel', 'pdf','pageLength']
+        });
+
+        table.buttons().container()
+            .appendTo('#example_wrapper .col-md-6:eq(0)');
+    });
+</script>
+</html>

@@ -1,0 +1,877 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\nassit.bundle.scp.css",
+      "PackagePath": "staticwebassets\\nassit.bundle.scp.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Dashboard_layout.7z",
+      "PackagePath": "staticwebassets\\assets\\Dashboard_layout.7z"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Dashboard_layout\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\Dashboard_layout\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Dashboard_layout\\buttons.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\Dashboard_layout\\buttons.bootstrap5.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Dashboard_layout\\buttons.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\Dashboard_layout\\buttons.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Dashboard_layout\\buttons.colVis.min.js",
+      "PackagePath": "staticwebassets\\assets\\Dashboard_layout\\buttons.colVis.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Dashboard_layout\\buttons.html5.min.js",
+      "PackagePath": "staticwebassets\\assets\\Dashboard_layout\\buttons.html5.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Dashboard_layout\\buttons.print.min.js",
+      "PackagePath": "staticwebassets\\assets\\Dashboard_layout\\buttons.print.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Dashboard_layout\\dataTables.bootstrap5.min.css",
+      "PackagePath": "staticwebassets\\assets\\Dashboard_layout\\dataTables.bootstrap5.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Dashboard_layout\\dataTables.bootstrap5.min.js",
+      "PackagePath": "staticwebassets\\assets\\Dashboard_layout\\dataTables.bootstrap5.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Dashboard_layout\\dataTables.buttons.min.js",
+      "PackagePath": "staticwebassets\\assets\\Dashboard_layout\\dataTables.buttons.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Dashboard_layout\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\assets\\Dashboard_layout\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Dashboard_layout\\jszip.min.js",
+      "PackagePath": "staticwebassets\\assets\\Dashboard_layout\\jszip.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Dashboard_layout\\pdfmake.min.js",
+      "PackagePath": "staticwebassets\\assets\\Dashboard_layout\\pdfmake.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Dashboard_layout\\vfs_fonts.js",
+      "PackagePath": "staticwebassets\\assets\\Dashboard_layout\\vfs_fonts.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Login_layout\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\Login_layout\\font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\Login_layout\\jquery-3.6.0.js",
+      "PackagePath": "staticwebassets\\assets\\Login_layout\\jquery-3.6.0.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\chart\\js\\Line-char.js",
+      "PackagePath": "staticwebassets\\assets\\chart\\js\\Line-char.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\chart\\js\\chatcode.js",
+      "PackagePath": "staticwebassets\\assets\\chart\\js\\chatcode.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\css\\Ind.css",
+      "PackagePath": "staticwebassets\\assets\\css\\Ind.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\css\\Loginform.css",
+      "PackagePath": "staticwebassets\\assets\\css\\Loginform.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\css\\img\\1393189.jpg",
+      "PackagePath": "staticwebassets\\assets\\css\\img\\1393189.jpg"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\css\\paper-dashboard.min1036.css",
+      "PackagePath": "staticwebassets\\assets\\css\\paper-dashboard.min1036.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\demo\\demo.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\demo.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\demo\\jquery.sharrre.js",
+      "PackagePath": "staticwebassets\\assets\\demo\\jquery.sharrre.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\--font-awesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\--font-awesome.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\all.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\all.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\brands.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\brands.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\brands.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\regular.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\regular.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\regular.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\solid.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\solid.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\solid.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\v4-shims.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font-awesome\\latest\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\assets\\font-awesome\\latest\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font\\all.css",
+      "PackagePath": "staticwebassets\\assets\\font\\all.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\font\\all.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font\\brands.css",
+      "PackagePath": "staticwebassets\\assets\\font\\brands.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font\\brands.min.css",
+      "PackagePath": "staticwebassets\\assets\\font\\brands.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\font\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\font\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font\\regular.css",
+      "PackagePath": "staticwebassets\\assets\\font\\regular.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font\\regular.min.css",
+      "PackagePath": "staticwebassets\\assets\\font\\regular.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font\\solid.css",
+      "PackagePath": "staticwebassets\\assets\\font\\solid.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font\\solid.min.css",
+      "PackagePath": "staticwebassets\\assets\\font\\solid.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\assets\\font\\svg-with-js.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\assets\\font\\svg-with-js.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font\\v4-shims.css",
+      "PackagePath": "staticwebassets\\assets\\font\\v4-shims.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\font\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\assets\\font\\v4-shims.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\attribution.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\attribution.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\1.html",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\1.html"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\all.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\all.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\all.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\brands.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\brands.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\brands.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\fontawesome.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\regular.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\regular.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\regular.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\solid.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\solid.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\solid.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\v4-shims.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\js\\all.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\all.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\all.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\js\\brands.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\brands.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\brands.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\fontawesome.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\js\\regular.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\regular.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\regular.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\js\\solid.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\solid.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\solid.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\v4-shims.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\_animated.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\_animated.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\_bordered-pulled.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\_bordered-pulled.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\_core.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\_core.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\_fixed-width.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\_fixed-width.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\_icons.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\_icons.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\_larger.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\_larger.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\_list.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\_list.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\_mixins.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\_mixins.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\_rotated-flipped.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\_rotated-flipped.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\_screen-reader.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\_screen-reader.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\_shims.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\_shims.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\_stacked.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\_stacked.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\_variables.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\_variables.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\brands.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\brands.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\fontawesome.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\fontawesome.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\regular.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\regular.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\solid.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\solid.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\less\\v4-shims.less",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\less\\v4-shims.less"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\metadata\\categories.yml",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\metadata\\categories.yml"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\metadata\\icons.json",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\metadata\\icons.json"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\metadata\\icons.yml",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\metadata\\icons.yml"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\metadata\\shims.json",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\metadata\\shims.json"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\metadata\\shims.yml",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\metadata\\shims.yml"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\metadata\\sponsors.yml",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\metadata\\sponsors.yml"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\_shims.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\_shims.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\brands.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\brands.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\fontawesome.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\regular.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\regular.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\solid.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\solid.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\scss\\v4-shims.scss",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\scss\\v4-shims.scss"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\sprites\\brands.svg"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\sprites\\regular.svg"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\sprites\\solid.svg"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\fontawesome\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fontawesome\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\img\\NASSIT.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\NASSIT.jpg"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\img\\ksv-logo.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\ksv-logo.jpeg"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\img\\user-logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\user-logo.png"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\js\\core\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\js\\core\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\js\\core\\popper.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\core\\popper.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\js\\paper-dashboard.min1036.js",
+      "PackagePath": "staticwebassets\\assets\\js\\paper-dashboard.min1036.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\plugins\\perfect-scrollbar.jquery.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "E:\\project\\Nassit\\IVR\\IVRDashboard\\nassit\\nassit\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.nassit.props",
+      "PackagePath": "build\\nassit.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.nassit.props",
+      "PackagePath": "buildMultiTargeting\\nassit.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.nassit.props",
+      "PackagePath": "buildTransitive\\nassit.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.nassit.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,106 @@
+﻿@model TBL_Registration;
+@{
+    Layout = "Login_layout";
+}
+<!-- Image and text -->
+
+
+<nav class="navbar navbar-expand-lg" style="height:100px;background-color: #d5dee7;">
+    <div class="container-fluid" >
+
+        <ul class="navbar-nav me-auto mb-2 mb-lg-0" style="margin-right:25px;">
+
+            <a class="navbar-brand" href="#" style=" margin-right: 72px;margin-left: 60px;">HOME</a>
+
+
+            <a class="navbar-brand" href="#" style="margin-right: 72px;
+">CONTACT</a>
+            <a class="navbar-brand" href="#" style="
+    margin-right: 72px;
+   
+">SERVICE</a>
+            <a class="navbar-brand" href="#" style="
+    margin-right: 72px;
+   
+">ABOUT</a>
+
+            </ul>
+        <img src="~/assets/img/nassit.jpg" width="150" class="d-inline-block align-top" alt="" style="margin-right: 44px; border-radius:5px;">
+
+        </div>
+</nav>
+
+
+
+@* 
+<nav class="navbar navbar-dark bg-primary style="height:100px;">
+    <a class="navbar-brand" href="#">Navbar</a>
+    <img src="~/assets/img/nassit.jpg" width="150" class="d-inline-block align-top" alt="">
+
+    
+    
+</nav>  *@
+
+
+<div class="container" style="margin-top: 70px;">
+        <div class="row justify-content-center">
+            <div class="col-12 col-sm-10 col-md-8 col-lg-6 col-xl-5 col-xxl-4">
+                <div class="card border border-light-subtle rounded-3 shadow-sm">
+                    <div class="card-body p-3 p-md-4 p-xl-5">
+                        <div class="text-center mb-3">
+                        <a href="#!">
+                            
+                            <img src="~/assets/img/nassit.jpg" alt="BootstrapBrain Logo" width="175" height="90">
+                            </a>
+                        </div>
+                        <h2 class="fs-6 fw-normal text-center text-secondary mb-4">Sign in to your account</h2>
+                        <form method="post" asp-controller="Home" asp-action="Login">
+                            <div class="row gy-2 overflow-hidden">
+                                <div class="col-12">
+                                    <div class="form-floating mb-3">
+                                    <input type="type" asp-for="User_Name" class="form-control" name="User_Name" id="username" placeholder="UserName" required>
+                                    <label for="username" class="form-label">User Name</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating mb-3">
+                                    <input type="password" asp-for="Password" class="form-control" name="password" id="userpass" value="" placeholder="Password" required>
+                                        <label for="password" class="form-label">Password</label>
+                                    </div>
+                                </div>
+                                <div class="col-12">
+                                </div>
+                                <div class="col-12">
+                                    <div class="d-grid my-3">
+                                        <button class="btn btn-primary btn-lg" type="submit">Log in</button>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    </div>
+@* remove space register and login page input field *@
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const usernameFields = document.querySelectorAll('input[type="text"], input[type="password"]');
+
+        usernameFields.forEach(function (field) {
+            field.addEventListener('input', function () {
+                this.value = this.value.replace(/\s/g, ''); // Remove spaces
+            });
+        });
+    });
+
+</script>
+  
+
+
+
+
+
+

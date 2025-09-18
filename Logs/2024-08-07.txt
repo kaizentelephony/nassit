@@ -1,0 +1,284 @@
+07-08-2024 11:51:51: *************** GET Login page ***************
+07-08-2024 11:51:51: Login action started
+07-08-2024 11:51:59: *************** POST Login page ***************
+07-08-2024 11:52:07:  your user name is correct 
+07-08-2024 11:52:07: *************** POST Index page ***************
+07-08-2024 11:52:09: Enrollment success count 0
+07-08-2024 11:52:09: Enrollment success count 0
+07-08-2024 11:52:10: Verification success count 0
+07-08-2024 11:52:10: Verification success count 0
+07-08-2024 11:56:04: *************** POST Index page ***************
+07-08-2024 11:56:05: Enrollment success count 7
+07-08-2024 11:56:05: Enrollment success count 1
+07-08-2024 11:56:05: Verification success count 16
+07-08-2024 11:56:05: Verification success count 3
+07-08-2024 11:56:12: *************** POST Index page ***************
+07-08-2024 11:56:12: Enrollment success count 7
+07-08-2024 11:56:12: Enrollment success count 1
+07-08-2024 11:56:13: Verification success count 16
+07-08-2024 11:56:13: Verification success count 3
+07-08-2024 12:04:32: *************** GET Login page ***************
+07-08-2024 12:04:32: Login action started
+07-08-2024 12:04:45: *************** POST Login page ***************
+07-08-2024 12:04:52:  your user name is correct 
+07-08-2024 12:04:52: *************** POST Index page ***************
+07-08-2024 12:04:53: Enrollment success count 7
+07-08-2024 12:04:53: Enrollment success count 1
+07-08-2024 12:04:54: Verification success count 16
+07-08-2024 12:04:54: Verification success count 3
+07-08-2024 12:05:02: ******************** GET Verification  ********************
+07-08-2024 12:05:46: Error :Invalid column name 'VAR_BIOMETRIC_STATUS'.
+Invalid column name 'VAR_BIO_SCORE'.
+Invalid column name 'CUS_REQUIREMENT'.
+Invalid column name 'VAR_BIOMETRIC_STATUS'.
+Invalid column name 'VAR_BIO_SCORE'.
+Invalid column name 'var_call_end_time'.
+Invalid column name 'var_call_start_time'.
+Invalid column name 'var_duration'.
+07-08-2024 12:05:46: *************** GET Login page ***************
+07-08-2024 12:05:46: Login action started
+07-08-2024 12:08:17: *************** GET Login page ***************
+07-08-2024 12:08:17: Login action started
+07-08-2024 12:08:25: ******************** GET Verification  ********************
+07-08-2024 12:08:26: user name and login incorrect
+07-08-2024 12:08:26: *************** GET Login page ***************
+07-08-2024 12:08:26: Login action started
+07-08-2024 12:08:34: *************** POST Login page ***************
+07-08-2024 12:08:42:  your user name is correct 
+07-08-2024 12:08:42: *************** POST Index page ***************
+07-08-2024 12:08:44: Enrollment success count 7
+07-08-2024 12:08:44: Enrollment success count 1
+07-08-2024 12:08:45: Verification success count 16
+07-08-2024 12:08:45: Verification success count 3
+07-08-2024 12:08:50: ******************** GET Verification  ********************
+07-08-2024 12:09:44: Error :An exception has been raised that is likely due to a transient failure. Consider enabling transient error resiliency by adding 'EnableRetryOnFailure' to the 'UseSqlServer' call.
+07-08-2024 12:09:44: *************** GET Login page ***************
+07-08-2024 12:09:44: Login action started
+07-08-2024 12:09:54: *************** POST Login page ***************
+07-08-2024 12:10:25: *************** POST Login page ***************
+07-08-2024 12:10:26:  your user name is correct 
+07-08-2024 12:10:26: *************** POST Index page ***************
+07-08-2024 12:10:26: Enrollment success count 7
+07-08-2024 12:10:26: Enrollment success count 1
+07-08-2024 12:10:26: Verification success count 16
+07-08-2024 12:10:26: Verification success count 3
+07-08-2024 12:10:29: ******************** GET Verification  ********************
+07-08-2024 12:10:58: Error :Invalid column name 'var_call_end_time'.
+Invalid column name 'var_call_start_time'.
+07-08-2024 12:10:58: *************** GET Login page ***************
+07-08-2024 12:10:58: Login action started
+07-08-2024 12:11:06: *************** POST Login page ***************
+07-08-2024 12:11:06:  your user name is correct 
+07-08-2024 12:11:06: *************** POST Index page ***************
+07-08-2024 12:11:06: Enrollment success count 7
+07-08-2024 12:11:06: Enrollment success count 1
+07-08-2024 12:11:07: Verification success count 16
+07-08-2024 12:11:07: Verification success count 3
+07-08-2024 12:11:10: ******************** GET Verification  ********************
+07-08-2024 12:11:12: Error :Invalid column name 'var_call_end_time'.
+Invalid column name 'var_call_start_time'.
+07-08-2024 12:11:12: *************** GET Login page ***************
+07-08-2024 12:11:12: Login action started
+07-08-2024 12:11:22: *************** POST Login page ***************
+07-08-2024 12:11:22:  your user name is correct 
+07-08-2024 12:11:22: *************** POST Index page ***************
+07-08-2024 12:11:23: Enrollment success count 7
+07-08-2024 12:11:23: Enrollment success count 1
+07-08-2024 12:11:23: Verification success count 16
+07-08-2024 12:11:23: Verification success count 3
+07-08-2024 12:11:37: ******************** GET Verification  ********************
+07-08-2024 12:12:08: *************** GET Login page ***************
+07-08-2024 12:12:08: Login action started
+07-08-2024 12:12:14: *************** POST Login page ***************
+07-08-2024 12:12:20:  your user name is correct 
+07-08-2024 12:12:20: *************** POST Index page ***************
+07-08-2024 12:12:22: Enrollment success count 7
+07-08-2024 12:12:22: Enrollment success count 1
+07-08-2024 12:12:22: Verification success count 16
+07-08-2024 12:12:22: Verification success count 3
+07-08-2024 12:12:28: ******************** GET Verification  ********************
+07-08-2024 12:13:55: *************** GET Login page ***************
+07-08-2024 12:13:55: Login action started
+07-08-2024 12:14:04: *************** POST Login page ***************
+07-08-2024 12:14:10:  your user name is correct 
+07-08-2024 12:14:10: *************** POST Index page ***************
+07-08-2024 12:14:12: Enrollment success count 7
+07-08-2024 12:14:12: Enrollment success count 1
+07-08-2024 12:14:13: Verification success count 16
+07-08-2024 12:14:13: Verification success count 3
+07-08-2024 12:14:19: ******************** GET Verification  ********************
+07-08-2024 12:16:35: *************** GET Login page ***************
+07-08-2024 12:16:35: Login action started
+07-08-2024 12:21:09: *************** GET Login page ***************
+07-08-2024 12:21:09: Login action started
+07-08-2024 12:21:16: *************** POST Login page ***************
+07-08-2024 12:21:23:  your user name is correct 
+07-08-2024 12:21:23: *************** POST Index page ***************
+07-08-2024 12:21:26: Enrollment success count 7
+07-08-2024 12:21:26: Enrollment success count 1
+07-08-2024 12:21:27: Verification success count 16
+07-08-2024 12:21:27: Verification success count 3
+07-08-2024 12:21:32: ******************** GET Verification  ********************
+07-08-2024 12:21:35:  Blacklist table list success 
+07-08-2024 12:22:04: ******************** GET Verification  ********************
+07-08-2024 12:22:04:  Blacklist table list success 
+07-08-2024 12:22:46: ******************** GET Verification  ********************
+07-08-2024 12:22:46: ******************** GET Verification  ********************
+07-08-2024 12:22:54:  Blacklist table list success 
+07-08-2024 12:22:54:  Blacklist table list success 
+07-08-2024 12:23:33: *************** GET Login page ***************
+07-08-2024 12:23:33: Login action started
+07-08-2024 12:27:53: *************** POST Login page ***************
+07-08-2024 12:27:59:  user id or password incorrect
+07-08-2024 12:28:07: *************** POST Login page ***************
+07-08-2024 12:28:07:  your user name is correct 
+07-08-2024 12:28:07: *************** POST Index page ***************
+07-08-2024 12:28:09: Enrollment success count 7
+07-08-2024 12:28:09: Enrollment success count 1
+07-08-2024 12:28:10: Verification success count 16
+07-08-2024 12:28:10: Verification success count 3
+07-08-2024 12:28:16: ******************** GET Verification  ********************
+07-08-2024 12:28:18:  Blacklist table list success 
+07-08-2024 12:28:30: ******************** GET Verification  ********************
+07-08-2024 12:28:32:  Blacklist table list success 
+07-08-2024 12:29:28: ******************** GET Verification  ********************
+07-08-2024 12:29:30:  Blacklist table list success 
+07-08-2024 12:29:38: *************** POST Index page ***************
+07-08-2024 12:29:38: Enrollment success count 7
+07-08-2024 12:29:38: Enrollment success count 1
+07-08-2024 12:29:38: Verification success count 16
+07-08-2024 12:29:38: Verification success count 3
+07-08-2024 12:33:02: *************** POST Index page ***************
+07-08-2024 12:33:02: Enrollment success count 7
+07-08-2024 12:33:02: Enrollment success count 1
+07-08-2024 12:33:02: Verification success count 16
+07-08-2024 12:33:02: Verification success count 3
+07-08-2024 12:33:15: ******************** GET Verification  ********************
+07-08-2024 12:33:17:  Blacklist table list success 
+07-08-2024 12:33:26: *************** POST Index page ***************
+07-08-2024 12:33:27: Enrollment success count 7
+07-08-2024 12:33:27: Enrollment success count 1
+07-08-2024 12:33:27: Verification success count 16
+07-08-2024 12:33:27: Verification success count 3
+07-08-2024 12:34:44: ******************** GET Verification  ********************
+07-08-2024 12:34:46:  Blacklist table list success 
+07-08-2024 12:34:47: *************** POST Index page ***************
+07-08-2024 12:34:48: Enrollment success count 7
+07-08-2024 12:34:48: Enrollment success count 1
+07-08-2024 12:34:49: Verification success count 16
+07-08-2024 12:34:49: Verification success count 3
+07-08-2024 12:35:12: *************** POST Index page ***************
+07-08-2024 12:35:13: Enrollment success count 7
+07-08-2024 12:35:13: Enrollment success count 1
+07-08-2024 12:35:13: Verification success count 16
+07-08-2024 12:35:13: Verification success count 3
+07-08-2024 12:35:17: *************** POST Index page ***************
+07-08-2024 12:35:18: Enrollment success count 7
+07-08-2024 12:35:18: Enrollment success count 1
+07-08-2024 12:35:18: Verification success count 16
+07-08-2024 12:35:18: Verification success count 3
+07-08-2024 12:35:24: ******************** GET Verification  ********************
+07-08-2024 12:35:26:  Blacklist table list success 
+07-08-2024 12:36:02: ******************** GET Verification  ********************
+07-08-2024 12:36:03:  Blacklist table list success 
+07-08-2024 12:36:40: *************** GET Login page ***************
+07-08-2024 12:36:40: Login action started
+07-08-2024 12:36:48: *************** POST Login page ***************
+07-08-2024 12:36:54:  your user name is correct 
+07-08-2024 12:36:54: *************** POST Index page ***************
+07-08-2024 12:36:56: Enrollment success count 7
+07-08-2024 12:36:56: Enrollment success count 1
+07-08-2024 12:36:57: Verification success count 16
+07-08-2024 12:36:57: Verification success count 3
+07-08-2024 12:37:02: ******************** GET Verification  ********************
+07-08-2024 12:37:04:  Blacklist table list success 
+07-08-2024 12:37:23: ******************** GET Verification  ********************
+07-08-2024 12:37:24:  Blacklist table list success 
+07-08-2024 12:37:31: ******************** GET Verification  ********************
+07-08-2024 12:37:31:  verification table list success 
+07-08-2024 12:37:38: Entring VerifySuccess
+07-08-2024 12:37:54: *************** GET Login page ***************
+07-08-2024 12:37:54: Login action started
+07-08-2024 12:38:00: ******************** GET Verification  ********************
+07-08-2024 12:38:02:  Blacklist table list success 
+07-08-2024 12:39:05: ******************** GET Verification  ********************
+07-08-2024 12:39:09:  Blacklist table list success 
+07-08-2024 12:39:13: ******************** GET Verification  ********************
+07-08-2024 12:39:13:  Blacklist table list success 
+07-08-2024 12:39:21: *************** POST Index page ***************
+07-08-2024 12:39:21: Enrollment success count 7
+07-08-2024 12:39:21: Enrollment success count 1
+07-08-2024 12:39:22: Verification success count 16
+07-08-2024 12:39:22: Verification success count 3
+07-08-2024 12:40:46: *************** POST Index page ***************
+07-08-2024 12:40:46: Enrollment success count 7
+07-08-2024 12:40:46: Enrollment success count 1
+07-08-2024 12:40:46: Verification success count 16
+07-08-2024 12:40:46: Verification success count 3
+07-08-2024 12:41:03: ******************** GET Verification  ********************
+07-08-2024 12:41:03:  Blacklist table list success 
+07-08-2024 12:41:11: Entring VerifySuccess
+07-08-2024 12:41:16: ******************** GET Verification  ********************
+07-08-2024 12:41:16:  Blacklist table list success 
+07-08-2024 13:22:01: *************** GET Login page ***************
+07-08-2024 13:22:01: Login action started
+07-08-2024 13:22:16: *************** POST Login page ***************
+07-08-2024 13:22:24:  your user name is correct 
+07-08-2024 13:22:24: *************** POST Index page ***************
+07-08-2024 13:22:27: Enrollment success count 2
+07-08-2024 13:22:27: Enrollment success count 1
+07-08-2024 13:22:27: Verification success count 16
+07-08-2024 13:22:27: Verification success count 3
+07-08-2024 13:22:37: ******************** GET Verification  ********************
+07-08-2024 13:22:38:  Blacklist table list success 
+07-08-2024 14:38:34: *************** GET Login page ***************
+07-08-2024 14:38:34: Login action started
+07-08-2024 14:38:42: *************** POST Login page ***************
+07-08-2024 14:38:45:  your user name is correct 
+07-08-2024 14:38:45: *************** POST Index page ***************
+07-08-2024 14:38:46: Enrollment success count 2
+07-08-2024 14:38:46: Enrollment success count 1
+07-08-2024 14:38:47: Verification success count 16
+07-08-2024 14:38:47: Verification success count 3
+07-08-2024 14:38:53: ErrorInvalid column name 'VAR_BLACKED_LIST'.
+07-08-2024 14:38:53: *************** GET Login page ***************
+07-08-2024 14:38:53: Login action started
+07-08-2024 14:39:21: *************** POST Index page ***************
+07-08-2024 14:39:21: Enrollment success count 2
+07-08-2024 14:39:21: Enrollment success count 1
+07-08-2024 14:39:21: Verification success count 16
+07-08-2024 14:39:21: Verification success count 3
+07-08-2024 14:40:22: *************** GET Login page ***************
+07-08-2024 14:40:22: Login action started
+07-08-2024 14:41:08: *************** GET Login page ***************
+07-08-2024 14:41:08: Login action started
+07-08-2024 14:41:16: *************** POST Login page ***************
+07-08-2024 14:41:20:  your user name is correct 
+07-08-2024 14:41:20: *************** POST Index page ***************
+07-08-2024 14:41:21: Enrollment success count 2
+07-08-2024 14:41:21: Enrollment success count 1
+07-08-2024 14:41:22: Verification success count 16
+07-08-2024 14:41:22: Verification success count 3
+07-08-2024 14:42:25: *************** GET Login page ***************
+07-08-2024 14:42:25: Login action started
+07-08-2024 14:42:31: *************** POST Login page ***************
+07-08-2024 14:42:34:  your user name is correct 
+07-08-2024 14:42:34: *************** POST Index page ***************
+07-08-2024 14:42:35: Enrollment success count 2
+07-08-2024 14:42:35: Enrollment success count 1
+07-08-2024 14:42:36: Verification success count 16
+07-08-2024 14:42:36: Verification success count 3
+07-08-2024 14:42:44:  Entrollment table list success
+07-08-2024 14:44:03:  Entrollment table list success
+07-08-2024 14:44:11:  Entrollment table list success
+07-08-2024 14:44:51:  Entrollment table list success
+07-08-2024 14:45:18: *************** GET Login page ***************
+07-08-2024 14:45:18: Login action started
+07-08-2024 14:45:22: *************** POST Login page ***************
+07-08-2024 14:45:26:  your user name is correct 
+07-08-2024 14:45:26: *************** POST Index page ***************
+07-08-2024 14:45:28: Enrollment success count 2
+07-08-2024 14:45:28: Enrollment success count 1
+07-08-2024 14:45:29: Verification success count 16
+07-08-2024 14:45:29: Verification success count 3
+07-08-2024 14:45:39:  Entrollment table list success

@@ -1,0 +1,27 @@
+﻿#crd-clr1 {
+    background-image: linear-gradient(45deg, #a60ebe, #10bec5);
+}
+
+#crd-clr2 {
+    background-image: linear-gradient(45deg, #2d2727, #2abc8e);
+}
+
+#crd-clr3 {
+    background-image: linear-gradient(45deg, #10371b, #941717);
+}
+
+#crd-clr4 {
+    background-image: linear-gradient(45deg, #0d6efd, #212529);
+}
+.card-title{
+    color:white;
+}
+#crd-top-imgs {
+    color: #d78e18;
+}
+#crd-top-img {
+    color: #0dc94f;
+}
+.admin_text{
+    color:white!important;
+}

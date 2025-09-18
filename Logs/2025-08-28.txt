@@ -1,0 +1,691 @@
+28-08-2025 11:47:52: *************** GET Login page ***************
+28-08-2025 11:47:52: Login action started
+28-08-2025 11:48:05: *************** POST Login page ***************
+28-08-2025 11:48:05:  your user name is correct 
+28-08-2025 11:48:05: *************** POST Index page ***************
+28-08-2025 11:48:07: Enrollment success count 1
+28-08-2025 11:48:07: Enrollment success count 0
+28-08-2025 11:48:07: Verification success count 28
+28-08-2025 11:48:07: Verification success count 4
+28-08-2025 11:59:52: *************** POST Index page ***************
+28-08-2025 11:59:52: Enrollment success count 1
+28-08-2025 11:59:52: Enrollment success count 0
+28-08-2025 11:59:52: Verification success count 28
+28-08-2025 11:59:52: Verification success count 4
+28-08-2025 12:07:29: *************** GET Login page ***************
+28-08-2025 12:07:29: Login action started
+28-08-2025 12:09:37: *************** POST Login page ***************
+28-08-2025 12:09:37:  your user name is correct 
+28-08-2025 12:09:37: *************** POST Index page ***************
+28-08-2025 12:09:39: *************** POST Login page ***************
+28-08-2025 12:09:39:  your user name is correct 
+28-08-2025 12:09:39: *************** POST Index page ***************
+28-08-2025 12:09:40: Error : Invalid object name 'TBL_REGISTERED_DETAILS'.
+28-08-2025 12:09:40: Error : Invalid object name 'TBL_REGISTERED_DETAILS'.
+28-08-2025 12:09:40: *************** GET Login page ***************
+28-08-2025 12:09:40: Login action started
+28-08-2025 12:09:49: *************** POST Login page ***************
+28-08-2025 12:09:49:  your user name is correct 
+28-08-2025 12:09:49: *************** POST Index page ***************
+28-08-2025 12:09:49: Error : Invalid object name 'TBL_REGISTERED_DETAILS'.
+28-08-2025 12:09:49: *************** GET Login page ***************
+28-08-2025 12:09:49: Login action started
+28-08-2025 12:10:14: *************** GET Login page ***************
+28-08-2025 12:10:14: Login action started
+28-08-2025 12:12:56: *************** POST Login page ***************
+28-08-2025 12:12:56:  your user name is correct 
+28-08-2025 12:12:56: *************** POST Index page ***************
+28-08-2025 12:12:57: Enrollment success count 1
+28-08-2025 12:12:57: Enrollment success count 0
+28-08-2025 12:12:57: Verification success count 28
+28-08-2025 12:12:57: Verification success count 4
+28-08-2025 13:00:49: *************** POST Index page ***************
+28-08-2025 13:00:49: Enrollment success count 1
+28-08-2025 13:00:49: Enrollment success count 0
+28-08-2025 13:00:49: Verification success count 28
+28-08-2025 13:00:49: Verification success count 4
+28-08-2025 13:00:53: *************** POST Index page ***************
+28-08-2025 13:00:53: Enrollment success count 1
+28-08-2025 13:00:53: Enrollment success count 0
+28-08-2025 13:00:53: Verification success count 28
+28-08-2025 13:00:53: Verification success count 4
+28-08-2025 13:00:55: *************** POST Index page ***************
+28-08-2025 13:00:55: Enrollment success count 1
+28-08-2025 13:00:55: Enrollment success count 0
+28-08-2025 13:00:55: Verification success count 28
+28-08-2025 13:00:55: Verification success count 4
+28-08-2025 13:04:01: *************** GET Login page ***************
+28-08-2025 13:04:01: Login action started
+28-08-2025 13:04:14: *************** POST Login page ***************
+28-08-2025 13:04:14:  your user name is correct 
+28-08-2025 13:04:14: *************** POST Index page ***************
+28-08-2025 13:04:15: Enrollment success count 1
+28-08-2025 13:04:15: Enrollment success count 0
+28-08-2025 13:04:15: Verification success count 28
+28-08-2025 13:04:15: Verification success count 4
+28-08-2025 13:11:46: *************** POST Index page ***************
+28-08-2025 13:11:46: Enrollment success count 1
+28-08-2025 13:11:46: Enrollment success count 0
+28-08-2025 13:11:46: Verification success count 28
+28-08-2025 13:11:46: Verification success count 4
+28-08-2025 13:21:44: *************** POST Index page ***************
+28-08-2025 13:21:45: Enrollment success count 1
+28-08-2025 13:21:45: Enrollment success count 0
+28-08-2025 13:21:45: Verification success count 28
+28-08-2025 13:21:45: Verification success count 4
+28-08-2025 13:51:10: *************** GET Login page ***************
+28-08-2025 13:51:10: Login action started
+28-08-2025 13:51:17: *************** POST Login page ***************
+28-08-2025 13:51:17:  your user name is correct 
+28-08-2025 13:51:17: *************** POST Index page ***************
+28-08-2025 13:51:17: *************** POST Login page ***************
+28-08-2025 13:51:17:  your user name is correct 
+28-08-2025 13:51:17: *************** POST Index page ***************
+28-08-2025 13:51:18: Enrollment success count 1
+28-08-2025 13:51:18: Enrollment success count 0
+28-08-2025 13:51:18: Enrollment success count 1
+28-08-2025 13:51:18: Enrollment success count 0
+28-08-2025 13:51:18: Verification success count 28
+28-08-2025 13:51:18: Verification success count 4
+28-08-2025 13:51:18: Verification success count 28
+28-08-2025 13:51:18: Verification success count 4
+28-08-2025 13:51:26:  Entrollment table list success
+28-08-2025 13:51:38:  Entrollment table list success
+28-08-2025 13:51:48: *************** GET Login page ***************
+28-08-2025 13:51:48: Login action started
+28-08-2025 13:52:00: *************** POST Login page ***************
+28-08-2025 13:52:00:  your user name is correct 
+28-08-2025 13:52:00: *************** POST Index page ***************
+28-08-2025 13:52:02: Enrollment success count 1
+28-08-2025 13:52:02: Enrollment success count 0
+28-08-2025 13:52:02: Verification success count 28
+28-08-2025 13:52:02: Verification success count 4
+28-08-2025 13:54:10: *************** GET Login page ***************
+28-08-2025 13:54:10: Login action started
+28-08-2025 13:54:18: *************** POST Login page ***************
+28-08-2025 13:54:18:  your user name is correct 
+28-08-2025 13:54:18: *************** POST Index page ***************
+28-08-2025 13:54:20: Enrollment success count 1
+28-08-2025 13:54:20: Enrollment success count 0
+28-08-2025 13:54:20: Verification success count 28
+28-08-2025 13:54:20: Verification success count 4
+28-08-2025 14:20:28: *************** GET Login page ***************
+28-08-2025 14:20:28: Login action started
+28-08-2025 14:20:34: *************** POST Login page ***************
+28-08-2025 14:20:34:  your user name is correct 
+28-08-2025 14:20:34: *************** POST Index page ***************
+28-08-2025 14:20:36: Enrollment success count 1
+28-08-2025 14:20:36: Enrollment success count 0
+28-08-2025 14:20:36: Verification success count 28
+28-08-2025 14:20:36: Verification success count 4
+28-08-2025 14:20:42: *************** POST Index page ***************
+28-08-2025 14:20:42: Enrollment success count 1
+28-08-2025 14:20:42: Enrollment success count 0
+28-08-2025 14:20:42: Verification success count 28
+28-08-2025 14:20:42: Verification success count 4
+28-08-2025 14:21:54: *************** GET Login page ***************
+28-08-2025 14:21:54: Login action started
+28-08-2025 14:22:07: *************** POST Login page ***************
+28-08-2025 14:22:07:  your user name is correct 
+28-08-2025 14:22:07: *************** POST Index page ***************
+28-08-2025 14:22:08: *************** POST Login page ***************
+28-08-2025 14:22:08:  your user name is correct 
+28-08-2025 14:22:08: *************** POST Index page ***************
+28-08-2025 14:22:08: Enrollment success count 1
+28-08-2025 14:22:08: Enrollment success count 0
+28-08-2025 14:22:08: Enrollment success count 1
+28-08-2025 14:22:08: Enrollment success count 0
+28-08-2025 14:22:08: Verification success count 28
+28-08-2025 14:22:08: Verification success count 4
+28-08-2025 14:22:09: Verification success count 28
+28-08-2025 14:22:09: Verification success count 4
+28-08-2025 14:22:12: *************** POST Index page ***************
+28-08-2025 14:22:12: Enrollment success count 1
+28-08-2025 14:22:12: Enrollment success count 0
+28-08-2025 14:22:12: Verification success count 28
+28-08-2025 14:22:12: Verification success count 4
+28-08-2025 15:46:28: *************** GET Login page ***************
+28-08-2025 15:46:28: Login action started
+28-08-2025 15:46:43: *************** POST Login page ***************
+28-08-2025 15:46:43:  your user name is correct 
+28-08-2025 15:46:43: *************** POST Index page ***************
+28-08-2025 15:46:48: Error : Invalid object name 'TBL_REGISTERED_DETAILS'.
+28-08-2025 15:46:48: *************** GET Login page ***************
+28-08-2025 15:46:48: Login action started
+28-08-2025 15:47:04: *************** POST Login page ***************
+28-08-2025 15:47:04:  your user name is correct 
+28-08-2025 15:47:04: *************** POST Index page ***************
+28-08-2025 15:47:05: Error : Invalid object name 'TBL_REGISTERED_DETAILS'.
+28-08-2025 15:47:05: *************** GET Login page ***************
+28-08-2025 15:47:05: Login action started
+28-08-2025 15:47:45: *************** POST Login page ***************
+28-08-2025 15:47:45:  your user name is correct 
+28-08-2025 15:47:45: *************** POST Index page ***************
+28-08-2025 15:47:46: Error : Invalid object name 'TBL_REGISTERED_DETAILS'.
+28-08-2025 15:47:51: *************** GET Login page ***************
+28-08-2025 15:47:52: Login action started
+28-08-2025 15:48:36: *************** POST Login page ***************
+28-08-2025 15:48:50:  your user name is correct 
+28-08-2025 15:48:54: *************** POST Index page ***************
+28-08-2025 15:48:55: Error : Invalid object name 'TBL_REGISTERED_DETAILS'.
+28-08-2025 15:49:15: *************** GET Login page ***************
+28-08-2025 15:49:15: Login action started
+28-08-2025 15:53:54: *************** GET Login page ***************
+28-08-2025 15:53:54: Login action started
+28-08-2025 15:54:09: *************** POST Login page ***************
+28-08-2025 15:54:09:  your user name is correct 
+28-08-2025 15:54:14: *************** POST Index page ***************
+28-08-2025 16:16:01: *************** GET Login page ***************
+28-08-2025 16:16:01: Login action started
+28-08-2025 16:16:15: *************** POST Login page ***************
+28-08-2025 16:16:15:  your user name is correct 
+28-08-2025 16:16:21: *************** POST Index page ***************
+28-08-2025 16:17:13: Enrollment success count 13
+28-08-2025 16:17:14: Enrollment success count 0
+28-08-2025 16:17:34: Verification success count 9
+28-08-2025 16:17:40: Verification success count 34
+28-08-2025 16:19:45: *************** POST Index page ***************
+28-08-2025 16:19:45: Enrollment success count 13
+28-08-2025 16:19:45: Enrollment success count 0
+28-08-2025 16:19:45: Verification success count 9
+28-08-2025 16:19:45: Verification success count 34
+28-08-2025 16:26:09: *************** GET Login page ***************
+28-08-2025 16:26:09: Login action started
+28-08-2025 16:26:28: *************** POST Login page ***************
+28-08-2025 16:26:28:  your user name is correct 
+28-08-2025 16:26:28: *************** POST Index page ***************
+28-08-2025 16:26:31: Enrollment success count 13
+28-08-2025 16:26:31: Enrollment success count 0
+28-08-2025 16:26:31: Verification success count 9
+28-08-2025 16:26:31: Verification success count 34
+28-08-2025 16:26:36: ******************** GET Verification  ********************
+28-08-2025 16:26:38: Error :Invalid object name 'TBL_BLACKLIST_DETAILS'.
+28-08-2025 16:26:38: *************** GET Login page ***************
+28-08-2025 16:26:38: Login action started
+28-08-2025 16:26:46: *************** POST Login page ***************
+28-08-2025 16:26:46:  your user name is correct 
+28-08-2025 16:26:46: *************** POST Index page ***************
+28-08-2025 16:26:46: Enrollment success count 13
+28-08-2025 16:26:46: Enrollment success count 0
+28-08-2025 16:26:46: Verification success count 9
+28-08-2025 16:26:46: Verification success count 34
+28-08-2025 16:26:51: ******************** GET Verification  ********************
+28-08-2025 16:26:51: Error :Invalid object name 'TBL_BLACKLIST_DETAILS'.
+28-08-2025 16:26:51: *************** GET Login page ***************
+28-08-2025 16:26:51: Login action started
+28-08-2025 16:30:01: *************** GET Login page ***************
+28-08-2025 16:30:01: Login action started
+28-08-2025 16:30:11: *************** POST Login page ***************
+28-08-2025 16:30:11:  your user name is correct 
+28-08-2025 16:30:14: *************** POST Index page ***************
+28-08-2025 16:30:17: Enrollment success count 13
+28-08-2025 16:30:17: Enrollment success count 0
+28-08-2025 16:30:18: Verification success count 9
+28-08-2025 16:30:18: Verification success count 34
+28-08-2025 16:30:21: ******************** GET Verification  ********************
+28-08-2025 16:30:22: Error :Invalid column name 'VAR_ID'.
+Invalid column name 'VAR_BLACK_LIST'.
+Invalid column name 'VAR_Caller_ID'.
+Invalid column name 'VAR_MOBILE_NO'.
+Invalid column name 'VAR_TYPE'.
+Invalid column name 'VAR_UNIQUE_ID'.
+Invalid column name 'var_called_date'.
+Invalid column name 'var_called_date'.
+28-08-2025 16:30:22: *************** GET Login page ***************
+28-08-2025 16:30:22: Login action started
+28-08-2025 16:35:14: *************** GET Login page ***************
+28-08-2025 16:35:14: Login action started
+28-08-2025 16:35:34: *************** POST Login page ***************
+28-08-2025 16:35:34:  your user name is correct 
+28-08-2025 16:35:37: *************** POST Index page ***************
+28-08-2025 16:35:40: Enrollment success count 13
+28-08-2025 16:35:40: Enrollment success count 0
+28-08-2025 16:35:41: Verification success count 9
+28-08-2025 16:35:41: Verification success count 34
+28-08-2025 16:35:50: ******************** GET Verification  ********************
+28-08-2025 16:40:10: *************** GET Login page ***************
+28-08-2025 16:40:10: Login action started
+28-08-2025 16:40:18: *************** POST Login page ***************
+28-08-2025 16:40:19:  your user name is correct 
+28-08-2025 16:40:21: *************** POST Index page ***************
+28-08-2025 16:40:25: Enrollment success count 13
+28-08-2025 16:40:25: Enrollment success count 0
+28-08-2025 16:40:25: Verification success count 9
+28-08-2025 16:40:25: Verification success count 34
+28-08-2025 16:40:31: ******************** GET Verification  ********************
+28-08-2025 16:40:31:  Blacklist table list success 
+28-08-2025 16:45:19: Error : Microsoft.Data.SqlClient.SqlException (0x80131904): Invalid column name 'VAR_BLACK_LIST'.
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.SqlInternalConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryConsumeMetaData()
+   at Microsoft.Data.SqlClient.SqlDataReader.get_MetaData()
+   at Microsoft.Data.SqlClient.SqlCommand.FinishExecuteReader(SqlDataReader ds, RunBehavior runBehavior, String resetOptionsString, Boolean isInternal, Boolean forDescribeParameterEncryption, Boolean shouldCacheForAlwaysEncrypted)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReaderTds(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, Boolean isAsync, Int32 timeout, Task& task, Boolean asyncWrite, Boolean inRetry, SqlDataReader ds, Boolean describeParameterEncryptionRequest)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, TaskCompletionSource`1 completion, Int32 timeout, Task& task, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.RunExecuteReader(CommandBehavior cmdBehavior, RunBehavior runBehavior, Boolean returnStream, String method)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteReader(CommandBehavior behavior)
+   at Microsoft.Data.SqlClient.SqlCommand.ExecuteDbDataReader(CommandBehavior behavior)
+   at Microsoft.EntityFrameworkCore.Storage.RelationalCommand.ExecuteReader(RelationalCommandParameterObject parameterObject)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.InitializeReader(Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.<>c.<MoveNext>b__19_0(DbContext _, Enumerator enumerator)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.Execute[TState,TResult](TState state, Func`3 operation, Func`3 verifySucceeded)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.Enumerator.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at nassit.Controllers.HomeController.Entrollstatus() in D:\Sathya_Handover\Nassit\Nassit\IVRDashboard\nassit\nassit\Controllers\HomeController.cs:line 190
+ClientConnectionId:f5390cf5-6858-41f5-bfa2-ec9afd07b352
+Error Number:207,State:1,Class:16
+28-08-2025 16:45:19: *************** GET Login page ***************
+28-08-2025 16:45:19: Login action started
+28-08-2025 17:00:16: *************** GET Login page ***************
+28-08-2025 17:00:16: Login action started
+28-08-2025 17:00:25: *************** POST Login page ***************
+28-08-2025 17:00:26:  your user name is correct 
+28-08-2025 17:00:26: *************** POST Index page ***************
+28-08-2025 17:00:29: Enrollment success count 13
+28-08-2025 17:00:29: Enrollment success count 0
+28-08-2025 17:00:29: Verification success count 9
+28-08-2025 17:00:29: Verification success count 34
+28-08-2025 17:00:33: ******************** GET Verification  ********************
+28-08-2025 17:00:33:  Blacklist table list success 
+28-08-2025 17:08:58: *************** GET Login page ***************
+28-08-2025 17:08:58: Login action started
+28-08-2025 17:09:06: *************** POST Login page ***************
+28-08-2025 17:09:06:  your user name is correct 
+28-08-2025 17:09:15: *************** POST Index page ***************
+28-08-2025 17:09:17: Enrollment success count 13
+28-08-2025 17:09:17: Enrollment success count 0
+28-08-2025 17:09:18: Verification success count 9
+28-08-2025 17:09:18: Verification success count 34
+28-08-2025 17:12:35: *************** GET Login page ***************
+28-08-2025 17:12:35: Login action started
+28-08-2025 17:12:46: *************** POST Login page ***************
+28-08-2025 17:12:46:  your user name is correct 
+28-08-2025 17:12:47: *************** POST Index page ***************
+28-08-2025 17:12:50: Enrollment success count 13
+28-08-2025 17:12:50: Enrollment success count 0
+28-08-2025 17:12:50: Verification success count 9
+28-08-2025 17:12:50: Verification success count 34
+28-08-2025 17:13:06: ******************** GET TransferTable ********************
+28-08-2025 17:13:06: Transfer table list success. Records: 242
+28-08-2025 17:15:09: *************** GET Login page ***************
+28-08-2025 17:15:09: Login action started
+28-08-2025 17:15:14: *************** POST Login page ***************
+28-08-2025 17:15:14:  your user name is correct 
+28-08-2025 17:15:14: *************** POST Index page ***************
+28-08-2025 17:15:16: Enrollment success count 13
+28-08-2025 17:15:16: Enrollment success count 0
+28-08-2025 17:15:16: Verification success count 9
+28-08-2025 17:15:16: Verification success count 34
+28-08-2025 17:15:18: ******************** GET TransferTable ********************
+28-08-2025 17:15:19: Transfer table list success. Records: 242
+28-08-2025 17:15:32: *************** POST Index page ***************
+28-08-2025 17:15:32: Enrollment success count 13
+28-08-2025 17:15:32: Enrollment success count 0
+28-08-2025 17:15:32: Verification success count 9
+28-08-2025 17:15:32: Verification success count 34
+28-08-2025 17:15:34: ******************** GET TransferTable ********************
+28-08-2025 17:15:35: Transfer table list success. Records: 242
+28-08-2025 17:15:54: ******************** GET Verification  ********************
+28-08-2025 17:15:54:  Blacklist table list success 
+28-08-2025 17:28:09: *************** GET Login page ***************
+28-08-2025 17:28:09: Login action started
+28-08-2025 17:28:19: *************** POST Login page ***************
+28-08-2025 17:28:19:  your user name is correct 
+28-08-2025 17:28:20: *************** POST Index page ***************
+28-08-2025 17:28:22: Enrollment success count 13
+28-08-2025 17:28:22: Enrollment success count 0
+28-08-2025 17:28:22: Verification success count 9
+28-08-2025 17:28:22: Verification success count 34
+28-08-2025 17:28:30: *************** POST Index page ***************
+28-08-2025 17:28:30: Enrollment success count 13
+28-08-2025 17:28:30: Enrollment success count 0
+28-08-2025 17:28:30: Verification success count 9
+28-08-2025 17:28:30: Verification success count 34
+28-08-2025 17:28:44: ******************** GET TransferTable ********************
+28-08-2025 17:28:44: Transfer table list success. Records: 242
+28-08-2025 17:28:57: *************** POST Index page ***************
+28-08-2025 17:28:57: Enrollment success count 13
+28-08-2025 17:28:57: Enrollment success count 0
+28-08-2025 17:28:57: Verification success count 9
+28-08-2025 17:28:57: Verification success count 34
+28-08-2025 17:29:05: ******************** GET TransferTable ********************
+28-08-2025 17:29:05: Transfer table list success. Records: 242
+28-08-2025 17:29:22: *************** POST Index page ***************
+28-08-2025 17:29:23: Enrollment success count 13
+28-08-2025 17:29:23: Enrollment success count 0
+28-08-2025 17:29:23: Verification success count 9
+28-08-2025 17:29:23: Verification success count 34
+28-08-2025 17:31:36: *************** GET Login page ***************
+28-08-2025 17:31:36: Login action started
+28-08-2025 17:31:47: *************** POST Login page ***************
+28-08-2025 17:31:47:  your user name is correct 
+28-08-2025 17:31:47: *************** POST Index page ***************
+28-08-2025 17:31:49: Enrollment success count 13
+28-08-2025 17:31:49: Enrollment success count 0
+28-08-2025 17:31:49: Verification success count 9
+28-08-2025 17:31:49: Verification success count 34
+28-08-2025 17:31:53: *************** POST Index page ***************
+28-08-2025 17:31:53: Enrollment success count 13
+28-08-2025 17:31:53: Enrollment success count 0
+28-08-2025 17:31:53: Verification success count 9
+28-08-2025 17:31:53: Verification success count 34
+28-08-2025 17:36:49: *************** GET Login page ***************
+28-08-2025 17:36:49: Login action started
+28-08-2025 17:36:55: *************** POST Login page ***************
+28-08-2025 17:36:55:  your user name is correct 
+28-08-2025 17:36:55: *************** POST Index page ***************
+28-08-2025 17:36:56: Enrollment success count 13
+28-08-2025 17:36:56: Enrollment success count 0
+28-08-2025 17:36:56: Verification success count 9
+28-08-2025 17:36:56: Verification success count 34
+28-08-2025 17:36:59: *************** POST Index page ***************
+28-08-2025 17:37:00: Enrollment success count 13
+28-08-2025 17:37:00: Enrollment success count 0
+28-08-2025 17:37:00: Verification success count 9
+28-08-2025 17:37:00: Verification success count 34
+28-08-2025 17:38:00: *************** GET Login page ***************
+28-08-2025 17:38:01: Login action started
+28-08-2025 17:38:13: *************** POST Login page ***************
+28-08-2025 17:38:13:  your user name is correct 
+28-08-2025 17:38:13: *************** POST Index page ***************
+28-08-2025 17:38:14: Enrollment success count 13
+28-08-2025 17:38:14: Enrollment success count 0
+28-08-2025 17:38:15: Verification success count 9
+28-08-2025 17:38:15: Verification success count 34
+28-08-2025 17:38:45: ******************** GET TransferTable ********************
+28-08-2025 17:38:45: Transfer table list success. Records: 242
+28-08-2025 17:41:26: *************** GET Login page ***************
+28-08-2025 17:41:26: Login action started
+28-08-2025 17:44:13: *************** POST Login page ***************
+28-08-2025 17:44:13:  your user name is correct 
+28-08-2025 17:44:13: *************** POST Index page ***************
+28-08-2025 17:44:15: Enrollment success count 13
+28-08-2025 17:44:15: Enrollment success count 0
+28-08-2025 17:44:15: Verification success count 9
+28-08-2025 17:44:15: Verification success count 34
+28-08-2025 17:44:18: ******************** GET TransferTable ********************
+28-08-2025 17:44:19: Transfer table list success. Records: 242
+28-08-2025 17:44:41: ******************** GET Verification  ********************
+28-08-2025 17:44:41:  Blacklist table list success 
+28-08-2025 17:47:19: *************** GET Login page ***************
+28-08-2025 17:47:19: Login action started
+28-08-2025 17:47:34: *************** POST Login page ***************
+28-08-2025 17:47:34:  your user name is correct 
+28-08-2025 17:47:34: *************** POST Index page ***************
+28-08-2025 17:47:37: Enrollment success count 13
+28-08-2025 17:47:37: Enrollment success count 0
+28-08-2025 17:47:37: Verification success count 9
+28-08-2025 17:47:37: Verification success count 34
+28-08-2025 17:47:46: ******************** GET TransferTable ********************
+28-08-2025 17:47:46: Transfer table list success. Records: 242
+28-08-2025 17:48:03: *************** POST Index page ***************
+28-08-2025 17:48:03: Enrollment success count 13
+28-08-2025 17:48:03: Enrollment success count 0
+28-08-2025 17:48:04: Verification success count 9
+28-08-2025 17:48:04: Verification success count 34
+28-08-2025 17:48:07: ******************** GET TransferTable ********************
+28-08-2025 17:48:07: Transfer table list success. Records: 242
+28-08-2025 17:48:34: ******************** GET Verification  ********************
+28-08-2025 17:48:34:  Blacklist table list success 
+28-08-2025 17:52:58: *************** GET Login page ***************
+28-08-2025 17:52:58: Login action started
+28-08-2025 17:53:30: *************** POST Login page ***************
+28-08-2025 17:53:30:  your user name is correct 
+28-08-2025 17:53:30: *************** POST Index page ***************
+28-08-2025 17:53:31: Enrollment success count 13
+28-08-2025 17:53:31: Enrollment success count 0
+28-08-2025 17:53:32: Verification success count 9
+28-08-2025 17:53:32: Verification success count 34
+28-08-2025 17:53:34: ******************** GET TransferTable ********************
+28-08-2025 17:53:34: Transfer table list success. Records: 242
+28-08-2025 17:53:51: ******************** GET TransferTable ********************
+28-08-2025 17:53:51: Transfer table list success. Records: 242
+28-08-2025 17:56:51: *************** GET Login page ***************
+28-08-2025 17:56:51: Login action started
+28-08-2025 17:56:57: *************** POST Login page ***************
+28-08-2025 17:56:57:  your user name is correct 
+28-08-2025 17:56:57: *************** POST Index page ***************
+28-08-2025 17:56:59: Enrollment success count 13
+28-08-2025 17:56:59: Enrollment success count 0
+28-08-2025 17:56:59: Verification success count 9
+28-08-2025 17:56:59: Verification success count 34
+28-08-2025 17:57:02: ******************** GET TransferTable ********************
+28-08-2025 17:57:03: Transfer table list success. Records: 242
+28-08-2025 17:58:06: *************** GET Login page ***************
+28-08-2025 17:58:07: Login action started
+28-08-2025 17:58:14: *************** POST Login page ***************
+28-08-2025 17:58:14:  your user name is correct 
+28-08-2025 17:58:14: *************** POST Index page ***************
+28-08-2025 17:58:16: Enrollment success count 13
+28-08-2025 17:58:16: Enrollment success count 0
+28-08-2025 17:58:16: Verification success count 9
+28-08-2025 17:58:16: Verification success count 34
+28-08-2025 17:58:18: ******************** GET TransferTable ********************
+28-08-2025 17:58:18: Transfer table list success. Records: 242
+28-08-2025 18:01:57: *************** GET Login page ***************
+28-08-2025 18:01:57: Login action started
+28-08-2025 18:02:19: *************** GET Login page ***************
+28-08-2025 18:02:19: Login action started
+28-08-2025 18:02:26: *************** POST Login page ***************
+28-08-2025 18:02:26:  your user name is correct 
+28-08-2025 18:02:26: *************** POST Index page ***************
+28-08-2025 18:02:28: Enrollment success count 13
+28-08-2025 18:02:28: Enrollment success count 0
+28-08-2025 18:02:28: Verification success count 9
+28-08-2025 18:02:28: Verification success count 34
+28-08-2025 18:02:30: ******************** GET TransferTable ********************
+28-08-2025 18:02:30: Transfer table list success. Records: 242
+28-08-2025 18:09:38: *************** GET Login page ***************
+28-08-2025 18:09:38: Login action started
+28-08-2025 18:09:53: *************** POST Login page ***************
+28-08-2025 18:09:53:  your user name is correct 
+28-08-2025 18:09:53: *************** POST Index page ***************
+28-08-2025 18:09:56: Enrollment success count 13
+28-08-2025 18:09:56: Enrollment success count 0
+28-08-2025 18:09:56: Verification success count 9
+28-08-2025 18:09:56: Verification success count 34
+28-08-2025 18:09:59: ******************** GET TransferTable ********************
+28-08-2025 18:09:59: Transfer table list success. Records: 242
+28-08-2025 18:28:27: *************** GET Login page ***************
+28-08-2025 18:28:27: Login action started
+28-08-2025 18:28:34: *************** POST Login page ***************
+28-08-2025 18:28:34:  your user name is correct 
+28-08-2025 18:28:34: *************** POST Index page ***************
+28-08-2025 18:28:36: Enrollment success count 13
+28-08-2025 18:28:36: Enrollment success count 0
+28-08-2025 18:28:36: Verification success count 9
+28-08-2025 18:28:36: Verification success count 34
+28-08-2025 18:28:39: ******************** GET TransferTable ********************
+28-08-2025 18:28:39: Transfer table list success. Records: 242
+28-08-2025 18:28:54: ******************** GET TransferTable ********************
+28-08-2025 18:28:54: Transfer table list success. Records: 242
+28-08-2025 18:29:50: ******************** GET TransferTable ********************
+28-08-2025 18:29:50: Transfer table list success. Records: 242
+28-08-2025 18:30:14: *************** GET Login page ***************
+28-08-2025 18:30:14: Login action started
+28-08-2025 18:30:19: *************** POST Login page ***************
+28-08-2025 18:30:19:  your user name is correct 
+28-08-2025 18:30:20: *************** POST Index page ***************
+28-08-2025 18:30:21: Enrollment success count 13
+28-08-2025 18:30:21: Enrollment success count 0
+28-08-2025 18:30:21: Verification success count 9
+28-08-2025 18:30:21: Verification success count 34
+28-08-2025 18:30:25: ******************** GET CallDetailsTable ********************
+28-08-2025 18:30:25: CallDetails table list success. Records: 242
+28-08-2025 18:31:58: *************** GET Login page ***************
+28-08-2025 18:31:58: Login action started
+28-08-2025 18:32:06: *************** POST Login page ***************
+28-08-2025 18:32:06:  your user name is correct 
+28-08-2025 18:32:07: *************** POST Index page ***************
+28-08-2025 18:32:08: Enrollment success count 13
+28-08-2025 18:32:08: Enrollment success count 0
+28-08-2025 18:32:08: Verification success count 9
+28-08-2025 18:32:08: Verification success count 34
+28-08-2025 18:32:12: ******************** GET CallDetailsTable ********************
+28-08-2025 18:32:12: CallDetails table list success. Records: 242
+28-08-2025 18:33:16: *************** GET Login page ***************
+28-08-2025 18:33:16: Login action started
+28-08-2025 18:33:22: *************** POST Login page ***************
+28-08-2025 18:33:22:  your user name is correct 
+28-08-2025 18:33:22: *************** POST Index page ***************
+28-08-2025 18:33:24: Enrollment success count 13
+28-08-2025 18:33:24: Enrollment success count 0
+28-08-2025 18:33:24: Verification success count 9
+28-08-2025 18:33:24: Verification success count 34
+28-08-2025 18:33:26: ******************** GET CallDetailsTable ********************
+28-08-2025 18:33:26: CallDetails table list success. Records: 242
+28-08-2025 18:35:22: *************** GET Login page ***************
+28-08-2025 18:35:22: Login action started
+28-08-2025 18:35:30: *************** POST Login page ***************
+28-08-2025 18:35:30:  your user name is correct 
+28-08-2025 18:35:30: *************** POST Index page ***************
+28-08-2025 18:35:31: Enrollment success count 13
+28-08-2025 18:35:31: Enrollment success count 0
+28-08-2025 18:35:31: Verification success count 9
+28-08-2025 18:35:31: Verification success count 34
+28-08-2025 18:35:37: ******************** GET CallDetailsTable ********************
+28-08-2025 18:35:37: CallDetails table list success. Records: 526
+28-08-2025 18:37:08: *************** GET Login page ***************
+28-08-2025 18:37:08: Login action started
+28-08-2025 18:37:20: *************** POST Login page ***************
+28-08-2025 18:37:20:  your user name is correct 
+28-08-2025 18:37:20: *************** POST Index page ***************
+28-08-2025 18:37:22: Enrollment success count 13
+28-08-2025 18:37:22: Enrollment success count 0
+28-08-2025 18:37:22: Verification success count 9
+28-08-2025 18:37:22: Verification success count 34
+28-08-2025 18:37:36: ErrorInvalid column name 'VAR_BLACK_LIST'.
+28-08-2025 18:37:36: *************** GET Login page ***************
+28-08-2025 18:37:36: Login action started
+28-08-2025 18:38:25: *************** POST Login page ***************
+28-08-2025 18:38:25:  your user name is correct 
+28-08-2025 18:38:25: *************** POST Index page ***************
+28-08-2025 18:38:25: Enrollment success count 13
+28-08-2025 18:38:25: Enrollment success count 0
+28-08-2025 18:38:25: Verification success count 9
+28-08-2025 18:38:25: Verification success count 34
+28-08-2025 18:46:54: *************** GET Login page ***************
+28-08-2025 18:46:54: Login action started
+28-08-2025 18:47:01: *************** POST Login page ***************
+28-08-2025 18:47:01:  your user name is correct 
+28-08-2025 18:47:02: *************** POST Index page ***************
+28-08-2025 18:47:03: Enrollment success count 13
+28-08-2025 18:47:03: Enrollment success count 0
+28-08-2025 18:47:03: Verification success count 9
+28-08-2025 18:47:03: Verification success count 34
+28-08-2025 18:47:09: ******************** GET CallDetailsTable ********************
+28-08-2025 18:47:09: CallDetails table list success. Records: 242
+28-08-2025 18:47:43: *************** GET Login page ***************
+28-08-2025 18:47:43: Login action started
+28-08-2025 18:47:51: *************** POST Login page ***************
+28-08-2025 18:47:51:  your user name is correct 
+28-08-2025 18:47:51: *************** POST Index page ***************
+28-08-2025 18:47:54: Enrollment success count 13
+28-08-2025 18:47:54: Enrollment success count 0
+28-08-2025 18:47:54: Verification success count 9
+28-08-2025 18:47:54: Verification success count 34
+28-08-2025 18:48:19:  Entrollment table list success
+28-08-2025 18:48:51: ******************** GET Verification  ********************
+28-08-2025 18:48:52: Error :Invalid column name 'VAR_BIOMETRIC_STATUS'.
+Invalid column name 'VAR_BIO_SCORE'.
+Invalid column name 'VAR_BIOMETRIC_STATUS'.
+Invalid column name 'VAR_BIO_SCORE'.
+Invalid column name 'VAR_CHANNEL_ID'.
+Invalid column name 'var_call_end_time'.
+Invalid column name 'var_call_start_time'.
+Invalid column name 'var_duration'.
+28-08-2025 18:48:52: *************** GET Login page ***************
+28-08-2025 18:48:52: Login action started
+28-08-2025 18:49:01: *************** POST Login page ***************
+28-08-2025 18:49:01:  your user name is correct 
+28-08-2025 18:49:02: *************** POST Index page ***************
+28-08-2025 18:49:02: Enrollment success count 13
+28-08-2025 18:49:02: Enrollment success count 0
+28-08-2025 18:49:02: Verification success count 9
+28-08-2025 18:49:02: Verification success count 34
+28-08-2025 18:49:11: ******************** GET Verification  ********************
+28-08-2025 19:03:51: *************** GET Login page ***************
+28-08-2025 19:03:51: Login action started
+28-08-2025 19:04:03: *************** POST Login page ***************
+28-08-2025 19:04:03:  your user name is correct 
+28-08-2025 19:04:03: *************** POST Index page ***************
+28-08-2025 19:04:05: Enrollment success count 13
+28-08-2025 19:04:05: Enrollment success count 0
+28-08-2025 19:04:05: Verification success count 9
+28-08-2025 19:04:05: Verification success count 34
+28-08-2025 19:04:36:  Entrollment table list success
+28-08-2025 19:04:37:  Entrollment table list success
+28-08-2025 19:05:00: ******************** GET Verification  ********************
+28-08-2025 19:05:01: Error :Unable to cast object of type 'System.String' to type 'System.Decimal'.
+28-08-2025 19:05:01: *************** GET Login page ***************
+28-08-2025 19:05:01: Login action started
+28-08-2025 19:05:13: *************** POST Login page ***************
+28-08-2025 19:05:13:  your user name is correct 
+28-08-2025 19:05:13: *************** POST Index page ***************
+28-08-2025 19:05:13: Enrollment success count 13
+28-08-2025 19:05:13: Enrollment success count 0
+28-08-2025 19:05:13: Verification success count 9
+28-08-2025 19:05:13: Verification success count 34
+28-08-2025 19:05:20: ******************** GET Verification  ********************
+28-08-2025 19:09:02: *************** GET Login page ***************
+28-08-2025 19:09:02: Login action started
+28-08-2025 19:09:10: *************** POST Login page ***************
+28-08-2025 19:09:10:  your user name is correct 
+28-08-2025 19:09:10: *************** POST Index page ***************
+28-08-2025 19:09:11: Enrollment success count 13
+28-08-2025 19:09:11: Enrollment success count 0
+28-08-2025 19:09:11: Verification success count 9
+28-08-2025 19:09:11: Verification success count 34
+28-08-2025 19:09:21: ******************** GET Verification  ********************
+28-08-2025 19:09:33:  verification table list success 
+28-08-2025 19:09:47: Entring VerifySuccess
+28-08-2025 19:17:09: *************** GET Login page ***************
+28-08-2025 19:17:09: Login action started
+28-08-2025 19:17:17: *************** POST Login page ***************
+28-08-2025 19:17:17:  your user name is correct 
+28-08-2025 19:17:17: *************** POST Index page ***************
+28-08-2025 19:17:18: Enrollment success count 13
+28-08-2025 19:17:18: Enrollment success count 0
+28-08-2025 19:17:18: Verification success count 9
+28-08-2025 19:17:18: Verification success count 34
+28-08-2025 19:17:40: ******************** GET Verification  ********************
+28-08-2025 19:17:40:  Blacklist table list success 
+28-08-2025 19:18:12:  Entrollment table list success
+28-08-2025 19:18:41: ******************** GET Verification  ********************
+28-08-2025 19:18:41:  Blacklist table list success 
+28-08-2025 19:18:46: ******************** GET TransferTable ********************
+28-08-2025 19:18:47: Transfer table list success. Records: 243
+28-08-2025 19:18:55: ******************** GET CallDetailsTable ********************
+28-08-2025 19:18:55: CallDetails table list success. Records: 527
+28-08-2025 19:19:20: ******************** GET Verification  ********************
+28-08-2025 19:19:20:  verification table list success 
+28-08-2025 19:19:39: Entring VerifySuccess
+28-08-2025 19:20:02: **************** GET Logout ****************
+28-08-2025 19:20:02: Logout successfully
+28-08-2025 19:20:02: *************** GET Login page ***************
+28-08-2025 19:20:02: Login action started
+28-08-2025 19:28:59: *************** GET Login page ***************
+28-08-2025 19:28:59: Login action started
+28-08-2025 19:29:08: *************** POST Login page ***************
+28-08-2025 19:29:08:  your user name is correct 
+28-08-2025 19:29:08: *************** POST Index page ***************
+28-08-2025 19:29:10: Enrollment success count 13
+28-08-2025 19:29:10: Enrollment success count 0
+28-08-2025 19:29:10: Verification success count 9
+28-08-2025 19:29:10: Verification success count 34
+28-08-2025 19:31:21: ******************** GET TransferTable ********************
+28-08-2025 19:31:22: Transfer table list success. Records: 243
+28-08-2025 20:00:55: *************** GET Login page ***************
+28-08-2025 20:00:55: Login action started
+28-08-2025 20:01:03: *************** POST Login page ***************
+28-08-2025 20:01:03:  your user name is correct 
+28-08-2025 20:01:03: *************** POST Index page ***************
+28-08-2025 20:01:07: Enrollment success count 13
+28-08-2025 20:01:07: Enrollment success count 0
+28-08-2025 20:01:07: Verification success count 9
+28-08-2025 20:01:07: Verification success count 34
+28-08-2025 20:01:16: ******************** GET TransferTable ********************
+28-08-2025 20:01:16: Transfer table list success. Records: 243

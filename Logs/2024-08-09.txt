@@ -1,0 +1,11 @@
+09-08-2024 02:11:09: *************** GET Login page ***************
+09-08-2024 02:11:09: Login action started
+09-08-2024 02:12:48: *************** POST Login page ***************
+09-08-2024 02:12:48:  your user name is correct 
+09-08-2024 02:12:48: *************** POST Index page ***************
+09-08-2024 02:12:53: Enrollment success count 5
+09-08-2024 02:12:53: Enrollment success count 1
+09-08-2024 02:12:54: Verification success count 33
+09-08-2024 02:12:54: Verification success count 4
+09-08-2024 02:13:05: ******************** GET Verification  ********************
+09-08-2024 02:13:05:  Blacklist table list success 

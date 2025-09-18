@@ -1,0 +1,221 @@
+﻿@model List<nassit.Models.TBL_CALL_TRANSFER>
+@{
+    Layout = "Dashboard";
+}
+<div class="wrapper ">
+    <div class="sidebar" data-color="red" data-active-color="primary" style="min-height: 100vh;">
+        <div class="logo d-flex align-items-center justify-content-center"
+             style="background: linear-gradient(135deg, #00ccff, #0491b7); height: 66px; box-shadow: 0 3px 6px rgba(0,0,0,0.2);">
+            <div class="logo-image-small">
+                <img src="~/assets/img/nassit.jpg"
+                     style="width: 150px; height: 80px; object-fit: contain; border-radius: 8px;" />
+            </div>
+        </div>
+
+        <div class="sidebar-wrapper" style="background: linear-gradient(180deg, #00cdfc, #033944); padding-top: 15px;">
+            <div class="user text-center mb-3">
+                @*                 <div class="photo mb-2">*@         
+                <div>
+                    <img src="~/assets/img/user-logo.png" style="border:2px solid #fff;width: 31px;height: 30px;overflow: hidden;float: left;z-index: 5;margin-right: 10px;border-radius: 50%;margin-left: 23px;" />
+                </div>
+                <div class="info" style="MARGIN-RIGHT: 142PX;">
+                    <span class="admin_text text-white font-weight-bold">
+                        @if (!string.IsNullOrEmpty(ViewBag.UsName))
+                        {
+                            <span>@ViewBag.UsName</span>
+                        }
+                    </span>
+                </div>
+            </div>
+
+            <ul class="nav flex-column">
+                <li class="nav-item active">
+                    <a asp-controller="Home" asp-action="Index" class="nav-link text-white">
+                        <i class="fas fa-tachometer-alt mr-2" style="color: #fda922;"></i> Dashboard
+                    </a>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-white" href="#" id="enrollmentMenu" data-toggle="dropdown">
+                        <i class="fas fa-user-edit mr-2" style="color:#ffc107;"></i> Enrollment
+                    </a>
+                    <div class="dropdown-menu bg-dark border-0 shadow">
+                        <a class="dropdown-item text-white bg-transparent hover-item" asp-controller="Home" asp-action="EntrollmentTable">Details</a>
+                        <a class="dropdown-item text-white bg-transparent hover-item" asp-controller="Home" asp-action="Entrollstatus">Success</a>
+                        <a class="dropdown-item text-white bg-transparent hover-item" asp-controller="Home" asp-action="EntrollFail">Failed</a>
+                    </div>
+                </li>
+
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle text-white" href="#" id="verificationMenu" data-toggle="dropdown">
+                        <i class="fas fa-user-check mr-2" style="color:#28a745;"></i> Verification
+                    </a>
+                    <div class="dropdown-menu bg-dark border-0 shadow">
+                        <a class="dropdown-item text-white hover-item" asp-controller="Home" asp-action="VerificationTable">Details</a>
+                        <a class="dropdown-item text-white hover-item" asp-controller="Home" asp-action="VerifySuccess">Success</a>
+                        <a class="dropdown-item text-white hover-item" asp-controller="Home" asp-action="VerifyFail">Failed</a>
+                    </div>
+                </li>
+
+                <li class="nav-item">
+                    <a class="nav-link text-white" asp-controller="Home" asp-action="BlacklistTable">
+                        <i class="fas fa-user-slash mr-2" style="color:#dc3545;"></i> Blacklist
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" asp-controller="Home" asp-action="Calltrnsfer">
+                        <i class="fas fa-share-alt mr-2" style="color:#dc3545;"></i> Call Transfer
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" asp-controller="Home" asp-action="CallDetails">
+                        <i class="fas fa-list-alt mr-2" style="color:#dc3545;"></i> Call Details
+                    </a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link text-white" asp-controller="Home" asp-action="Calltrnsfer">
+                        <i class="fas fa-tablet-alt mr-2" style="color:#dc3545;"></i> Call Transactions
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
+
+    <!-- Navbar -->
+    <div class="main-panel">
+        <nav class="navbar navbar-expand-lg navbar-dark"
+             style="background: linear-gradient(273deg, #033944, #049dc6);box-shadow: 0 3px 6px rgba(0,0,0,0.2);">
+            <div class="container-fluid">
+                <div class="navbar-wrapper d-flex align-items-center">
+                    @*   <button id="minimizeSidebar" class="btn btn-outline-light btn-sm mr-3 rounded-circle">
+                        <i class="fas fa-bars"></i>
+                    </button> *@
+                    <a class="navbar-brand d-flex align-items-center" href="javascript:;">
+                        @*                         <img src="~/assets/img/nassit.jpg" style="width:50px; height:50px; border-radius:8px;" class="mr-2" />
+ *@                        <span class="font-weight-bold text-white">NASSIT Dashboard</span>
+                    </a>
+                </div>
+
+                <div class="collapse navbar-collapse justify-content-end">
+                    <form asp-action="Logout" method="post" asp-controller="Home">
+                        <button type="submit" class="btn btn-danger btn-sm px-3 rounded-pill shadow-sm">
+                            <i class="fas fa-sign-out-alt"></i> Logout
+                        </button>
+                    </form>
+                </div>
+            </div>
+        </nav>
+
+
+        <div class="content">
+            <h3>Call Transfer</h3>
+            <center>
+                <form asp-controller="Home" asp-action="SearchdatetimeTransfer" method="post">
+                    <label for="fromDate">From Date:</label>
+                    <input type="date" id="fromDate" name="fromDate" required>
+                    <label for="toDates">To Date:</label>
+                    <input type="date" id="toDate" name="toDate" required>
+                    <button type="submit">Submit</button>
+                </form>
+
+            </center>
+
+            <div class="table-responsive">
+            <table id="example" class="table table-striped" style="width:100%">
+                <thead>
+                    <tr>
+                        <th>Called Date</th>
+                        <th>Caller ID</th>
+                        <th>Unique ID</th>
+                        <th>Patch Start</th>
+                        <th>Patch End</th>
+                        <th>Patch Duration</th>
+                        <th>IVR Disconnect Trace</th>
+                        <th>Transfer VDN</th>
+@*                         <th>Channel ID</th>
+ *@                        <th>Transfer Status</th>
+                        <th>Recording Path</th>
+                        <th>Flow</th>
+@*                         <th>Status</th>
+ *@                    </tr>
+                </thead>
+                
+                <tbody>
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+                            <td>@item.VAR_CALLED_DATE</td>
+                            <td>@item.VAR_CALLER_ID</td>
+                            <td>@item.VAR_UNIQUE_ID</td>
+                           <td>@item.VAR_PATCH_START_TIME?.ToString("HH:mm:ss")</td>
+                           <td>@item.VAR_PATCH_END_TIME?.ToString("HH:mm:ss")</td>
+                            <td>@item.VAR_PATCH_DURATION</td>
+                            <td>@item.VAR_IVR_DISCONNECT_TRACE</td>
+                            <td>@item.VAR_TRANSFERVDN</td>
+@*                             <td>@item.VAR_PATCH_CHANNEL_ID</td>
+ *@                            <td>@item.VAR_TRANSFERSTATUS</td>
+                            <td>@(!string.IsNullOrEmpty(item.VAR_RECORDINGPATH) ? "Yes" : "No")</td>
+                            <td>@item.VAR_FLOW</td>
+@*                             <td>@item.VAR_STATUS</td>
+ *@                        </tr>
+                    }
+                </tbody>
+            </table>
+            </div>
+        </div>
+        <footer class="footer footer-black  footer-white ">
+            <div class="container-fluid">
+                <div class="row">
+                    <div class="credits ml-auto">
+                        <span class="copyright">
+                            Creative by <a href="https://www.sliepa.gov.sl/invest-in-sierra-leone/existing-investors/p/item/20745/nassit">NASSIT</a>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    </div>
+</div>
+
+
+<script>
+    const fromDate = document.getElementById('fromDate');
+    const toDate = document.getElementById('toDate');
+
+    // Set max date for "fromDate" to today's date
+    fromDate.max = new Date().toLocaleDateString('en-ca');
+
+    fromDate.addEventListener('change', function () {
+        // When "fromDate" changes, set the minimum allowed date for "toDate"
+        toDate.min = fromDate.value;
+
+        // Reset "toDate" value if it's less than the new minimum
+        if (toDate.value < fromDate.value) {
+            toDate.value = fromDate.value;
+        }
+    });
+
+    toDate.addEventListener('change', function () {
+        fromDate.max = toDate.value;
+
+        if (fromDate.value > toDate.value) {
+            fromDate.value = toDate.value;
+        }
+    });
+
+        $(document).ready(function () {
+        $('#example').DataTable({
+            dom: 'Bfrtip',
+            buttons: [
+                'excelHtml5',
+                'pdfHtml5',
+                'print'
+            ],
+            pageLength: 10,
+            lengthMenu: [10, 25, 50, 100],
+            responsive: true,
+            scrollX: true   // ✅ keeps table inside container with horizontal scroll
+        });
+    });
+
+</script>  

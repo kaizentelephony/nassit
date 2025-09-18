@@ -1,0 +1,53 @@
+14-08-2024 12:55:41: *************** GET Login page ***************
+14-08-2024 12:55:41: Login action started
+14-08-2024 12:55:49: *************** POST Login page ***************
+14-08-2024 12:55:49:  your user name is correct 
+14-08-2024 12:55:49: *************** POST Index page ***************
+14-08-2024 12:55:58: Enrollment success count 1
+14-08-2024 12:55:58: Enrollment success count 0
+14-08-2024 12:55:59: Verification success count 14
+14-08-2024 12:55:59: Verification success count 3
+14-08-2024 12:56:12: ******************** GET Verification  ********************
+14-08-2024 12:56:13: Error :Invalid column name 'CUS_REQUIREMENT'.
+14-08-2024 12:56:13: *************** GET Login page ***************
+14-08-2024 12:56:13: Login action started
+14-08-2024 12:56:17: *************** POST Index page ***************
+14-08-2024 12:56:17: Enrollment success count 1
+14-08-2024 12:56:17: Enrollment success count 0
+14-08-2024 12:56:17: Verification success count 14
+14-08-2024 12:56:17: Verification success count 3
+14-08-2024 12:56:23: ******************** GET Verification  ********************
+14-08-2024 12:57:11: Error :Invalid column name 'CUS_REQUIREMENT'.
+14-08-2024 12:57:11: *************** GET Login page ***************
+14-08-2024 12:57:11: Login action started
+14-08-2024 12:57:20: *************** POST Login page ***************
+14-08-2024 12:57:20:  your user name is correct 
+14-08-2024 12:57:20: *************** POST Index page ***************
+14-08-2024 12:57:20: Enrollment success count 1
+14-08-2024 12:57:20: Enrollment success count 0
+14-08-2024 12:57:20: Verification success count 14
+14-08-2024 12:57:20: Verification success count 3
+14-08-2024 12:57:42: ******************** GET Verification  ********************
+14-08-2024 12:57:43: Error :Invalid column name 'CUS_REQUIREMENT'.
+14-08-2024 12:57:43: *************** GET Login page ***************
+14-08-2024 12:57:43: Login action started
+14-08-2024 12:57:50: *************** POST Login page ***************
+14-08-2024 12:57:50:  your user name is correct 
+14-08-2024 12:57:50: *************** POST Index page ***************
+14-08-2024 12:57:50: Enrollment success count 1
+14-08-2024 12:57:50: Enrollment success count 0
+14-08-2024 12:57:50: Verification success count 14
+14-08-2024 12:57:50: Verification success count 3
+14-08-2024 12:57:58: ******************** GET Verification  ********************
+14-08-2024 12:59:36: *************** GET Login page ***************
+14-08-2024 12:59:36: Login action started
+14-08-2024 12:59:44: *************** POST Login page ***************
+14-08-2024 12:59:44:  your user name is correct 
+14-08-2024 12:59:44: *************** POST Index page ***************
+14-08-2024 12:59:55: Enrollment success count 1
+14-08-2024 12:59:55: Enrollment success count 0
+14-08-2024 12:59:55: Verification success count 14
+14-08-2024 12:59:55: Verification success count 3
+14-08-2024 13:00:07: ******************** GET Verification  ********************
+14-08-2024 13:00:08:  verification table list success 
+14-08-2024 13:00:15: Entring VerifySuccess
